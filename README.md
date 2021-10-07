@@ -92,6 +92,11 @@ src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0
 [linkedin]: https://www.linkedin.com/in/ayush-raj97/
 
 
+---
+
+## &#x1f4c8; My GitHub Stats
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llucifer97&hide=java,html,css&theme=radical)](https://github.com/llucifer97/github-readme-stats)
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=llucifer97&theme=radical)](https://github.com/llucifer97/github-readme-stats)
