@@ -93,5 +93,5 @@ src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silvesterwali&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvesterwali&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silvesterwali&hide=java,html,css&theme=radical)](https://github.com/llucifer97/github-readme-stats)
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvesterwali&theme=radical)](https://github.com/llucifer97/github-readme-stats)
