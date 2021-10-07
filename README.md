@@ -90,3 +90,8 @@ src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0
 
 [website]: https://www.crio.do/portfolio/ayushraj-bit17/
 [linkedin]: https://www.linkedin.com/in/ayush-raj97/
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silvesterwali&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvesterwali&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
