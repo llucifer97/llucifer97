@@ -4,7 +4,7 @@
 
 - 🔭 I'm exploring new tech!
 - :space_invader: Learning about system design and backend technologies
-- 🥅 2021 Goals: To become better Engineer
+- 🥅 2022 Goals: To become better Engineer
 
 ### Connect with me:
 
